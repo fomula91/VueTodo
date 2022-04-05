@@ -48,9 +48,9 @@ CS 스터디  공부할것 정리
 </div>
 </details>
 
-<details>
+<details markdown=“1”>
 <summary>React</summary>
-<div markdown=“1”>
+
 1. ⭐️ Virtual DOM 작동 원리에 대해 설명해주세요.   
 2. ⭐️ Virtual DOM 이 무엇인지 설명해주세요.   
 3. ⭐️ React를 사용하는 이유에 대해 말씀해주세요.   
@@ -71,24 +71,24 @@ CS 스터디  공부할것 정리
 18. React 18 버전 업데이트 내용에 대해 말씀해주세요.   
 19. useEffect와 useLayoutEffect의 차이점에 대해 말씀해주세요.   
 20. ⭐️ Context API에 대해 설명해주세요.   
-</div>
+
 </details>
 
-<details>
+<details markdown=“1”>
 <summary>Redux</summary>
-<div markdown=“1”>
+
 1. ⭐️ Redux를 사용하는 이유가 무엇인가요?   
 2. ⭐️ Redux의 장단점에 대해 설명해주세요.   
 3. ⭐️ Context API와 Redux를 비교해주세요.   
 4. Redux-saga에 대해 설명해주세요.   
 5. Generator 문법에 대해 설명해주세요.   
 6. Redux-saga, Redux-Thunk의 차이에 대해 설명해주세요.   
-</div>
+
 </details>
 
-<details>
+<details markdown=“1”>
 <summary>Frontend</summary>
-<div markdown=“1”>
+
 1. ⭐️ 브라우저 렌더링 과정을 설명해주세요.   
 2. ⭐️ 브라우저는 어떻게 동작 하나요?    
 3. ⭐️ Webpack, Babel, Polyfill에 대해 설명해주세요.   
@@ -104,15 +104,15 @@ CS 스터디  공부할것 정리
 13. 크로스 브라우징 경험이 있으신가요?   
 14. 웹 소켓을 사용해보셨나요?   
 15. ⭐️ 웹사이트 성능 최적화에는 어떤 방법이 있나요?   
-</div>
+
 </details>
 
-<details>
+<details markdown=“1”>
 <summary>HTML, CSS</summary>
-<div markdown=“1”>
+
 1. Flexbox를 사용해보셨나요?   
 2. ⭐️ Cascading에 관해서 설명해주세요.   
 3. ⭐️ CSS 애니메이션과 JS 애니메이션의 차이에 대해 설명해주세요.   
 4. postition 속성을 나열해주세요.   
-</div>
+
 </details>
