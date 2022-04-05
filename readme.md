@@ -9,9 +9,9 @@ CS 스터디  공부할것 정리
 
 
 
-<details>
+<details markdown=“1”>
 <summary>CS</summary>
-<div markdown=“1”>
+
 1.⭐️ 브라우저 주소창에 www.google.com을 입력하면 어떤 일이 일어나나요?   
 2.DNS에 대해 설명해주세요.   
 3. ⭐️ GET과 POST의 차이는 무엇인가요?   
@@ -19,7 +19,7 @@ CS 스터디  공부할것 정리
 5. ⭐️ 객체 지향 프로그래밍이란 무엇인가요?   
 6. 자료구조 stack과 queue에 대해 설명해주세요.    
 7. ⭐️ 프로세스와 스레드에 대해 설명해주세요.   
-</div>
+
 </details>
 
 <details>
