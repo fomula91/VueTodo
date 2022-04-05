@@ -17,7 +17,8 @@ CS 스터디  공부할것 정리
 | | |
 | | |
 
-### `CS`
+# `CS`
+
 <details markdown=“1”>
 <summary>CS</summary>
 
@@ -30,8 +31,10 @@ CS 스터디  공부할것 정리
 7. ⭐️ 프로세스와 스레드에 대해 설명해주세요.   
 
 </details>
+
 - - -
-### `JavaScript`
+
+# `JavaScript`
 <details markdown=“1”>
 <summary>JavaScript</summary>
 
@@ -57,8 +60,10 @@ CS 스터디  공부할것 정리
 20. requestAnimationFrame을 사용해본 적 있나요?   
 
 </details>
+
 - - -
-### `React`
+
+# `React`
 <details markdown=“1”>
 <summary>React</summary>
 
@@ -84,8 +89,10 @@ CS 스터디  공부할것 정리
 20. ⭐️ Context API에 대해 설명해주세요.   
 
 </details>
+
 - - -
-### `Redux`
+
+# `Redux`
 <details markdown=“1”>
 <summary>Redux</summary>
 
@@ -97,8 +104,10 @@ CS 스터디  공부할것 정리
 6. Redux-saga, Redux-Thunk의 차이에 대해 설명해주세요.   
 
 </details>
+
 - - -
-### `Frontend`
+
+# `Frontend`
 <details markdown=“1”>
 <summary>Frontend</summary>
 
@@ -119,8 +128,10 @@ CS 스터디  공부할것 정리
 15. ⭐️ 웹사이트 성능 최적화에는 어떤 방법이 있나요?   
 
 </details>
+
 - - -
-### `HTML, CSS`
+
+# `HTML, CSS`
 <details markdown=“1”>
 <summary>HTML, CSS</summary>
 
