@@ -5,14 +5,23 @@ CS 스터디  공부할것 정리
 | 주제 | 발표날짜 | 발표자 |  
 |:--- | :--- | :---: |  
 | JS var, let, const 차이, 호이스팅(hoisting)에 대해 설명 | 2022.4.6 9:30| 홍현승 |  
-| 영희           | 50            | 분발하세요. |
+| 영희 | 2022.4.7 9:30 | 이경섭 |
+| 영희 | 2022.4.8 9:30 | 김태희 |
+| 영희 | 2022.4.9 9:30 | 김민우 |
+| 영희 | 2022.4.11 9:30 | 박성혜 |
+| 영희 | 2022.4.12 9:30 | 김형중 |
+| 영희 | 2022.4.13 9:30 | 김경래 |
+| 영희 | 2022.4.14 9:30 | 000 |
+| 영희 | 2022.4.15 9:30 | 000 |
+| 영희 | 2022.4.16 9:30 | 000 |
+| | |
+| | |
 
-
-
+### `CS`
 <details markdown=“1”>
 <summary>CS</summary>
 
-1.⭐️ 브라우저 주소창에 www.google.com을 입력하면 어떤 일이 일어나나요?   
+1.⭐️ 브라우저 주소창에 www.google.com 을 입력하면 어떤 일이 일어나나요?   
 2.DNS에 대해 설명해주세요.   
 3. ⭐️ GET과 POST의 차이는 무엇인가요?   
 4. REST API에 대해 설명해주세요.   
@@ -21,10 +30,11 @@ CS 스터디  공부할것 정리
 7. ⭐️ 프로세스와 스레드에 대해 설명해주세요.   
 
 </details>
-
-<details>
+- - -
+### `JavaScript`
+<details markdown=“1”>
 <summary>JavaScript</summary>
-<div markdown=“1”>
+
 1. ⭐️ Promise와 Callback 차이를 설명해주세요.   
 2. 콜백 지옥(Callback hell)을 해결하는 방법을 말씀해주세요.   
 3. ⭐️ async, await 사용 방법을 설명해주세요.   
@@ -45,9 +55,10 @@ CS 스터디  공부할것 정리
 18. ⭐️ 불변성을 유지하려면 어떻게 해야하나요?   
 19. this에 대해 설명해주세요.   
 20. requestAnimationFrame을 사용해본 적 있나요?   
-</div>
-</details>
 
+</details>
+- - -
+### `React`
 <details markdown=“1”>
 <summary>React</summary>
 
@@ -73,7 +84,8 @@ CS 스터디  공부할것 정리
 20. ⭐️ Context API에 대해 설명해주세요.   
 
 </details>
-
+- - -
+### `Redux`
 <details markdown=“1”>
 <summary>Redux</summary>
 
@@ -85,7 +97,8 @@ CS 스터디  공부할것 정리
 6. Redux-saga, Redux-Thunk의 차이에 대해 설명해주세요.   
 
 </details>
-
+- - -
+### `Frontend`
 <details markdown=“1”>
 <summary>Frontend</summary>
 
@@ -106,7 +119,8 @@ CS 스터디  공부할것 정리
 15. ⭐️ 웹사이트 성능 최적화에는 어떤 방법이 있나요?   
 
 </details>
-
+- - -
+### `HTML, CSS`
 <details markdown=“1”>
 <summary>HTML, CSS</summary>
 
