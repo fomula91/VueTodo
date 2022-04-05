@@ -1,24 +1,26 @@
 CS 스터디  공부할것 정리
 ===================
 ![Alt text](https://mblogthumb-phinf.pstatic.net/MjAxNzA1MjJfMjMz/MDAxNDk1NDQwMjExOTAz.LPH8sVcuWghE7PRaCPUyrkHr4j2Cfb-in-9KIVs_Kxkg.ebpc-KbYzkuOemPPEBUZ5I1slGYqgl83oa6iWyMuNOEg.JPEG.1ove_honesty/image_7849384371495438646106.jpg?type=w800)
-<img src="https://mblogthumb-phinf.pstatic.net/MjAxNzA1MjJfMjMz/MDAxNDk1NDQwMjExOTAz.LPH8sVcuWghE7PRaCPUyrkHr4j2Cfb-in-9KIVs_Kxkg.ebpc-KbYzkuOemPPEBUZ5I1slGYqgl83oa6iWyMuNOEg.JPEG.1ove_honesty/image_7849384371495438646106.jpg?type=w800">
 
 
 #### 각 발표자 발표일정
 | 주제 | 발표날짜 | 발표자 |  
 |:--- | :--- | :---: |  
 | JS var, let, const 차이, 호이스팅(hoisting)에 대해 설명 | 2022.4.6 9:30| 홍현승 |  
-| 영희 | 2022.4.7 9:30 | 이경섭 |
-| 영희 | 2022.4.8 9:30 | 김태희 |
-| 영희 | 2022.4.9 9:30 | 김민우 |
-| 영희 | 2022.4.11 9:30 | 박성혜 |
-| 영희 | 2022.4.12 9:30 | 김형중 |
-| 영희 | 2022.4.13 9:30 | 김경래 |
-| 영희 | 2022.4.14 9:30 | 000 |
-| 영희 | 2022.4.15 9:30 | 000 |
-| 영희 | 2022.4.16 9:30 | 000 |
-| | |
-| | |
+| NULL | 2022.4.7 9:30 | 이경섭 |
+| NULL | 2022.4.8 9:30 | 김태희 |
+| NULL | 2022.4.9 9:30 | 김민우 |
+| NULL | 2022.4.11 9:30 | 박성혜 |
+| NULL | 2022.4.12 9:30 | 김형중 |
+| NULL | 2022.4.13 9:30 | 김경래 |
+| NULL | 2022.4.14 9:30 | 000 |
+| NULL | 2022.4.15 9:30 | 000 |
+| NULL | 2022.4.16 9:30 | 000 |
+| NULL | 2022.4.18 9:30 | 000 |
+| NULL | 2022.4.19 9:30 | 000 |
+| NULL | 2022.4.20 9:30 | 000 |
+| NULL | 2022.4.21 9:30 | 000 |
+| NULL | 2022.4.22 9:30 | 000 |
 
 > 아래 각 주제를 클릭해서 접기를 풀어주세요
 
