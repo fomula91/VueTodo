@@ -1,5 +1,8 @@
 CS 스터디  공부할것 정리
 ===================
+![Alt text](https://mblogthumb-phinf.pstatic.net/MjAxNzA1MjJfMjMz/MDAxNDk1NDQwMjExOTAz.LPH8sVcuWghE7PRaCPUyrkHr4j2Cfb-in-9KIVs_Kxkg.ebpc-KbYzkuOemPPEBUZ5I1slGYqgl83oa6iWyMuNOEg.JPEG.1ove_honesty/image_7849384371495438646106.jpg?type=w800)
+<img src="https://mblogthumb-phinf.pstatic.net/MjAxNzA1MjJfMjMz/MDAxNDk1NDQwMjExOTAz.LPH8sVcuWghE7PRaCPUyrkHr4j2Cfb-in-9KIVs_Kxkg.ebpc-KbYzkuOemPPEBUZ5I1slGYqgl83oa6iWyMuNOEg.JPEG.1ove_honesty/image_7849384371495438646106.jpg?type=w800">
+
 
 #### 각 발표자 발표일정
 | 주제 | 발표날짜 | 발표자 |  
@@ -17,7 +20,7 @@ CS 스터디  공부할것 정리
 | | |
 | | |
 
-# `CS`
+> 아래 각 주제를 클릭해서 접기를 풀어주세요
 
 <details markdown=“1”>
 <summary>CS</summary>
@@ -34,7 +37,7 @@ CS 스터디  공부할것 정리
 
 - - -
 
-# `JavaScript`
+
 <details markdown=“1”>
 <summary>JavaScript</summary>
 
@@ -63,7 +66,7 @@ CS 스터디  공부할것 정리
 
 - - -
 
-# `React`
+
 <details markdown=“1”>
 <summary>React</summary>
 
@@ -92,7 +95,7 @@ CS 스터디  공부할것 정리
 
 - - -
 
-# `Redux`
+
 <details markdown=“1”>
 <summary>Redux</summary>
 
@@ -107,7 +110,7 @@ CS 스터디  공부할것 정리
 
 - - -
 
-# `Frontend`
+
 <details markdown=“1”>
 <summary>Frontend</summary>
 
@@ -131,7 +134,7 @@ CS 스터디  공부할것 정리
 
 - - -
 
-# `HTML, CSS`
+
 <details markdown=“1”>
 <summary>HTML, CSS</summary>
 
