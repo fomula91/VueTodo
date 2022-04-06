@@ -6,7 +6,7 @@ CS 스터디  공부할것 정리
 #### 각 발표자 발표일정
 | 주제 | 발표날짜 | 발표자 |  
 |:--- | :--- | :---: |  
-| JS var, let, const 차이, 호이스팅(hoisting)에 대해 설명 | 2022.4.6 9:30| 홍현승 |  
+| JS var, let, const 차이, 호이스팅(hoisting)에 대해 설명 | 2022.4.6 9:30| [홍현승](#참조자료) |  
 | sync async(await) | 2022.4.7 9:30 | 이경섭 |
 | NULL | 2022.4.8 9:30 | 김태희 |
 | NULL | 2022.4.9 9:30 | 김민우 |
@@ -146,3 +146,15 @@ CS 스터디  공부할것 정리
 4. postition 속성을 나열해주세요.   
 
 </details>
+
+
+- - -
+## 참조자료
+
+>팀원과 같이 찾아본 내용
+
+[콜바이밸류,레퍼런스](https://spoit.tistory.com/30)
+[리액트의불편성](https://hsp0418.tistory.com/171)
+[호이스팅](https://hanamon.kr/javascript-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%EC%9D%B4%EB%9E%80-hoisting/)
+[얕은복사 깊은복사](https://rok93.tistory.com/entry/%EC%96%95%EC%9D%80%EB%B3%B5%EC%82%AC-VS-%EA%B9%8A%EC%9D%80%EB%B3%B5%EC%82%AC)
+[데이터불변성](https://opentutorials.org/module/4075)
