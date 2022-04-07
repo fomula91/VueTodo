@@ -7,7 +7,7 @@ CS 스터디  공부할것 정리
 | 주제 | 발표날짜 | 발표자 |  
 |:--- | :--- | :---: |  
 | JS var, let, const 차이, 호이스팅(hoisting)에 대해 설명 | 2022.4.6 9:30| [홍현승](#참조자료) |  
-| sync async(await) | 2022.4.7 9:30 | 이경섭 |
+| sync async(await) | 2022.4.7 9:30 | [이경섭](#참조자료) |
 | NULL | 2022.4.8 9:30 | 김태희 |
 | NULL | 2022.4.9 9:30 | 김민우 |
 | NULL | 2022.4.11 9:30 | 박성혜 |
@@ -168,4 +168,5 @@ CS 스터디  공부할것 정리
 [비동기프로그래밍](https://www.youtube.com/watch?v=m0icCqHY39U)
 [프로세서및스레드](https://www.youtube.com/watch?v=iks_Xb9DtTM)
 [콜백](https://www.youtube.com/watch?v=s1vpVCrT8f4)
+[자바스크립트런타임작동방식](https://hanamon.kr/javascript-%EB%9F%B0%ED%83%80%EC%9E%84-%EC%9E%91%EB%8F%99-%EB%B0%A9%EC%8B%9D-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%99%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84/)
 
