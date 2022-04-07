@@ -159,3 +159,13 @@ CS 스터디  공부할것 정리
 [얕은복사 깊은복사](https://rok93.tistory.com/entry/%EC%96%95%EC%9D%80%EB%B3%B5%EC%82%AC-VS-%EA%B9%8A%EC%9D%80%EB%B3%B5%EC%82%AC)
 [데이터불변성](https://opentutorials.org/module/4075)
 [자바스크립트callbyvalue&Refer와얕은복사,깊은복사차이](https://velog.io/@sinclebear/Javascript-Call-by-Value-vs.-Call-by-Reference-%EC%9[…]%80-%EB%B3%B5%EC%82%AC-vs.-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC)  
+
+> async await
+
+[자바스크립트작동원리-스레드](https://velog.io/@danmin20/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EC%8A%A4%EB%A0%88%EB%93%9C)
+[자바스크립트동작원리](https://www.youtube.com/watch?v=v67LloZ1ieI)
+[프로미스](https://ko.javascript.info/promise-basics)
+[비동기프로그래밍](https://www.youtube.com/watch?v=m0icCqHY39U)
+[프로세서및스레드](https://www.youtube.com/watch?v=iks_Xb9DtTM)
+[콜백](https://www.youtube.com/watch?v=s1vpVCrT8f4)
+
