@@ -10,7 +10,7 @@ CS 스터디  공부할것 정리
 | sync async(await) | 2022.4.7 9:30 | [이경섭](#참조자료) |
 | contextAPI, REDUX | 2022.4.8 9:30 | 김태희 |
 | React 불변성 | 2022.4.9 9:30 | 김민우 |
-| NULL | 2022.4.11 9:30 | 김형중 |
+| 클래스컴포넌트와 함수컴포넌트의 차이 | 2022.4.11 9:30 | 김형중 |
 | NULL | 2022.4.12 9:30 | 박성혜 |
 | NULL | 2022.4.13 9:30 | 김경래 |
 | NULL | 2022.4.14 9:30 | 김태희 |
@@ -79,8 +79,8 @@ CS 스터디  공부할것 정리
 6. props와 state의 차이는 무엇인가요?   
 7. pure component에 대해 설명해주세요.   
 8. shouldComponentUpdate에 대해 설명해주세요.   
-9. ⭐️ 클래스형 컴포넌트와 함수형 컴포넌트의 차이에 대해 설명해주세요.   
-10. ⭐️ 생명 주기 메서드에 대해 설명해주세요.   
+~9. ⭐️ 클래스형 컴포넌트와 함수형 컴포넌트의 차이에 대해 설명해주세요.~ *김형중*
+10. ⭐️ 생명 주기 메서드에 대해 설명해주세요.   
 11. ⭐️ 리액트에서 JSX 문법이 어떻게 사용되나요?   
 12. 왜 state를 직접 바꾸지 않고 useState를 사용해야 하나요?   
 13. ⭐️ useMemo와 useCallback에 대해 설명해주세요.   
@@ -169,3 +169,5 @@ CS 스터디  공부할것 정리
 [콜백](https://www.youtube.com/watch?v=s1vpVCrT8f4)
 [자바스크립트런타임작동방식](https://hanamon.kr/javascript-%EB%9F%B0%ED%83%80%EC%9E%84-%EC%9E%91%EB%8F%99-%EB%B0%A9%EC%8B%9D-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%99%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84/)
 
+> 클래스와 함수의 차이
+[ppt](https://docs.google.com/presentation/d/16oMhNg20sSNGTt3eS6XqX39pFyUHLpxqw_q-Iv-h1HU/edit#slide=id.p)
