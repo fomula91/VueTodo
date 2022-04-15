@@ -8,13 +8,13 @@ CS 스터디  공부할것 정리
 |:--- | :--- | :---: |  
 | JS var, let, const 차이, 호이스팅(hoisting)에 대해 설명 | 2022.4.6 9:30| [홍현승](#참조자료) |  
 | sync async(await) | 2022.4.7 9:30 | [이경섭](#참조자료) |
-| contextAPI, REDUX | 2022.4.8 9:30 | 김태희 |
-| React 불변성 | 2022.4.9 9:30 | 김민우 |
-| 클래스컴포넌트와 함수컴포넌트의 차이 | 2022.4.11 9:30 | 김형중 |
-| Promise와 Callback 차이 | 2022.4.12 9:30 | 박성혜 |
-| useMemo와 useCallback에 대해 설명 | 2022.4.13 9:30 | 김경래 |
-| Redux-saga, Redux-Thunk | 2022.4.14 9:30 | 김형중 |
-| async, await | 2022.4.15 9:30 | 박성혜 |
+| contextAPI, REDUX | 2022.4.8 9:30 | [김태희](#참조자료) |
+| React 불변성 | 2022.4.9 9:30 | [김민우](#참조자료) |
+| 클래스컴포넌트와 함수컴포넌트의 차이 | 2022.4.11 9:30 | [김형중](#참조자료) |
+| Promise와 Callback 차이 | 2022.4.12 9:30 | [박성혜](#참조자료) |
+| useMemo와 useCallback에 대해 설명 | 2022.4.13 9:30 | [김경래](#참조자료) |
+| Redux-saga, Redux-Thunk | 2022.4.14 9:30 | [김형중](#참조자료) |
+| async, await | 2022.4.15 9:30 | [박성혜](#참조자료) |
 | NULL | 2022.4.16 9:30 | 이경섭 |
 | NULL | 2022.4.18 9:30 | 김민우 |
 | NULL | 2022.4.19 9:30 | 김경래 |
@@ -170,7 +170,10 @@ CS 스터디  공부할것 정리
 [자바스크립트런타임작동방식](https://hanamon.kr/javascript-%EB%9F%B0%ED%83%80%EC%9E%84-%EC%9E%91%EB%8F%99-%EB%B0%A9%EC%8B%9D-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%99%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84/)
 
 > 클래스와 함수의 차이  
-[ppt](https://docs.google.com/presentation/d/16oMhNg20sSNGTt3eS6XqX39pFyUHLpxqw_q-Iv-h1HU/edit#slide=id.p)
+[ppt](https://docs.google.com/presentation/d/16oMhNg20sSNGTt3eS6XqX39pFyUHLpxqw_q-Iv-h1HU/edit#slide=id.p)  
 
 > Redux-saga, Redux-Thunk  
-[ppt](https://docs.google.com/presentation/d/1lBBM1-AtiRe-i_VlVd6TE7Cf18w0xtRyXkaNBi-HbVs/edit?usp=sharing)
+[ppt](https://docs.google.com/presentation/d/1lBBM1-AtiRe-i_VlVd6TE7Cf18w0xtRyXkaNBi-HbVs/edit?usp=sharing)  
+
+> Promise, async, await  
+[발표자료](https://algoroot.tistory.com/93)  
