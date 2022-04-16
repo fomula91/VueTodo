@@ -15,7 +15,7 @@ CS 스터디  공부할것 정리
 | useMemo와 useCallback에 대해 설명 | 2022.4.13 9:30 | [김경래](#참조자료) |
 | Redux-saga, Redux-Thunk | 2022.4.14 9:30 | [김형중](#참조자료) |
 | async, await | 2022.4.15 9:30 | [박성혜](#참조자료) |
-| NULL | 2022.4.16 9:30 | 이경섭 |
+| ATOMIC 디자인패턴 | 2022.4.16 9:30 | 이경섭 |
 | NULL | 2022.4.18 9:30 | 김민우 |
 | NULL | 2022.4.19 9:30 | 김경래 |
 | NULL | 2022.4.20 9:30 | 김태희 |
@@ -177,3 +177,6 @@ CS 스터디  공부할것 정리
 
 > Promise, async, await  
 [발표자료](https://algoroot.tistory.com/93)  
+
+> ATOMIC  
+[라인atomicdesign적용](https://www.youtube.com/watch?v=33yj-Q5v8mQ&t=106s)
